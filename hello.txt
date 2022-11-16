@@ -3,4 +3,5 @@ hello
 hello
 
 privet
-kak dela
+
+napisal 4tobi proverit git revert
